@@ -6,8 +6,8 @@ h1{
 
 h2{
     background-color: greenyellow;
-    color: rebeccapurple
-    
+    color: rebeccapurple;
+    border: solid, green, 10px;
 }
 
 .info{
