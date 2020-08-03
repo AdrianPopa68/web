@@ -1,0 +1,19 @@
+h1{
+    color: magenta;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+h2{
+    background-color: greenyellow;
+    color: rebeccapurple
+    
+}
+
+.info{
+    background-color:rgb(255, 131, 185);
+    border-left-width: 6px;
+    border-left-style: solid;
+    border-left-color: rgb(266, 0, 116);
+    padding: 5px;
+}
